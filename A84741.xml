@@ -1,0 +1,505 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Truths vindication of election, and reprobation Wherein is shewed, Christ the cause of election; sin the cause of reprobation. The iustice of God is likewise cleared from that which is layd upon him by many; (namely) that some shall one day be damned for unbelief, and yet he never gave a Christ for them to beleeve in. Most of the strongest objections that scriptures or reason can make, answered. By William Fouler minister of the gospel at Ingworth in Norffolk.</title>
+            <author>Fowler, William, minister of Ingworth, Norfolk.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 53 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84741</idno>
+            <idno type="STC">Wing F1639</idno>
+            <idno type="STC">Thomason E1376_4</idno>
+            <idno type="STC">ESTC R209255</idno>
+            <idno type="EEBO-CITATION">99868141</idno>
+            <idno type="PROQUEST">99868141</idno>
+            <idno type="VID">169879</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84741)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169879)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 180:E1376[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Truths vindication of election, and reprobation Wherein is shewed, Christ the cause of election; sin the cause of reprobation. The iustice of God is likewise cleared from that which is layd upon him by many; (namely) that some shall one day be damned for unbelief, and yet he never gave a Christ for them to beleeve in. Most of the strongest objections that scriptures or reason can make, answered. By William Fouler minister of the gospel at Ingworth in Norffolk.</title>
+                  <author>Fowler, William, minister of Ingworth, Norfolk.</author>
+               </titleStmt>
+               <extent>[6], 38 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author, and are to be sold by Thomas Mathews at the Cock in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "June 3d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Predestination --  Early works to 1800.</term>
+               <term>Reprobation --  Early works to 1800.</term>
+               <term>Judgment of God --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169879:1" rendition="simple:additions"/>
+            <p>Truths Vindication OF <hi>Election,</hi> and <hi>Reprobation.</hi> Wherein is ſhewed, <hi>CHRIST</hi> the cauſe of <hi>Election; Sin</hi> the cauſe of <hi>Reprobation.</hi> The Iuſtice of God is likewiſe cleared from that which is layd upon him by many; (namely) <hi>That ſome ſhall one day be damned for Unbelief, and yet he never gave a</hi> CHRIST <hi>for them to beleeve in.</hi> Moſt of the ſtrongeſt Objections that Scriptures or Reaſon can make, Anſwered. <hi>By</hi> WILLIAM FOULER <hi>Miniſter of the Goſpel at</hi> Ingworth <hi>in</hi> Norffolk.</p>
+            <q>
+               <p>
+                  <hi>Try all things, hold faſt that which is good.</hi>
+               </p>
+               <p>
+                  <hi>God is not willing that any ſhould periſh, but come to life and be ſaved.</hi>
+               </p>
+               <p>
+                  <hi>For I have no pleaſure in the death of him that dieth, ſaith the Lord God: Wherefore turn your ſelves, and live ye.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for the <hi>Author,</hi> and are to be ſold by <hi>Thomas Mathews</hi> at the <hi>Cock</hi> in <hi>Pauls Church-yard.</hi> 1652.</p>
+            <pb facs="tcp:169879:2"/>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:169879:2"/>
+            <head>The Epiſtle to the Reader.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat which cauſeth me to bring forth theſe few lines to publique view, is theſe Reaſons: Firſt to clear the gracious God (ſo far as he hath enabled me) of Hea<g ref="char:EOLhyphen"/>ven and Earth, from that which poor dark creature lay upon him, which is, that he will (as moſt ſay) condemn ſome one day for not be<g ref="char:EOLhyphen"/>lieving in his Son Chriſt, and yet never gave a Chriſt for them to believe in, but without re<g ref="char:EOLhyphen"/>ference to ſin or tranſgreſſion, hath left moſt of the ſons and daughters of men from all e<g ref="char:EOLhyphen"/>ternity in a periſhing condition. Secondly, I have publiſhed this, becauſe poor ſinners may ſee there is mercy yet for them in Goſpel-decla<g ref="char:EOLhyphen"/>rations; what the Goſpel ſpeaks it is truth, there being in God no contrary deſire or end. Third<g ref="char:EOLhyphen"/>ly, that thoſe ſoules which find experimentally theſe truths of God within them, they might advance the glory of God and the riches of his Grace in Jeſus Chriſt, and walk up unto him with holy lives and converſations. Fourthly, to ſatisfie ſeverall Chriſtian friends which are
+<pb facs="tcp:169879:3"/> importunate that others may feed of the ſame Bunches of Grapes as they do, that they may long after that spiritual <hi>Canaan</hi> which bears ſweet fruits, giving forth its fruit in due ſea<g ref="char:EOLhyphen"/>ſon. My deſire is, that all to whom this ſmall peece ſhall come, they would with a ſingle eye weigh what is layd down for Grounds, and how proved. I know it will be under the cenſure of ſome, but it matters not, it is not he who man approves, but whom God approveth, the spiri<g ref="char:EOLhyphen"/>tuall, will be able to judge of it. And thus, Rea<g ref="char:EOLhyphen"/>der, I commit thee to the great God, and Father of our Lord Jeſus Chriſt, deſiring this may be profitable for the comfort of thy ſoul. Reſt<g ref="char:EOLhyphen"/>ing</p>
+            <closer>
+               <signed>
+                  <hi>Thine in every Office of the Goſpel,</hi> WILLIAM FOWLER.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:169879:3"/>
+            <head>Truths Vindication OF <hi>Election,</hi> and <hi>Reprobation.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">G</seg>Od the Father hath been pleaſed to make forth him<g ref="char:EOLhyphen"/>ſelf a God of great love to Mankind, having bowels of compaſſion to poor ſinners, tenders of Mercy towards them when the creature durſt not look the Father in the face, having ſinned againſt him, I mean when we were in <hi>Adam,</hi> he being a publique man, that is, the whole Creation being in him, his ſin be<g ref="char:EOLhyphen"/>came ours, <hi>Rom.</hi> 5. 18. and we became noxi<g ref="char:EOLhyphen"/>ous before the Father, and in a naked condi<g ref="char:EOLhyphen"/>tion, ſewing Fig-leaves together to cover us: In this eſtate did the Fathers great love ap<g ref="char:EOLhyphen"/>pear, by ſending of his Son Jeſus Chriſt to Redeem theſe poor fallen ones, <hi>Iohn</hi> 3. 16. <hi>God ſo loved the World, that he gave his one<g ref="char:EOLhyphen"/>ly begotten Sonne, that whoſoever beleeveth</hi>
+               <pb n="2" facs="tcp:169879:4"/> 
+               <hi>ſhould not periſh, but have everlaſting life.</hi>
+            </p>
+            <div type="question">
+               <head>Queſt. <hi>Did Chriſt redeem all thoſe that were laſt in</hi> Adam?</head>
+               <p>
+                  <hi>Anſw.</hi> Yea, <hi>Rom.</hi> 5 18 <hi>So likewiſe then as by the ſin of one condemnation</hi> 
+                  <note place="margin">
+                     <hi>Thus Mr.</hi> Tindales <hi>tranſlati<g ref="char:EOLhyphen"/>on reads it.</hi>
+                  </note> 
+                  <hi>came on all men, even ſo by the Juſtify<g ref="char:EOLhyphen"/>ing of one cometh the righteouſneſs that bringeth life upon all men.</hi> That is, Chriſt being Juſtified and Righte<g ref="char:EOLhyphen"/>ous, did undergo for the lump of Mankind, bearing that was due unto man in his own body, <hi>Iſa.</hi> 53. 4. <hi>He hath borne our griefs.</hi> And upon this accompt he brought life upon all; that is, by his ſufferings did ſatisfie divine Juſtice <note n="a" place="margin">
+                     <hi>Iſa.</hi> 53. 11.</note> for the ſin that <hi>Adam</hi> brought upon us, whereby life came in; I ſay, by his death came life, as many as dy<g ref="char:EOLhyphen"/>ed in the firſt <hi>Adam,</hi> are made alive in the laſt <hi>Adam.</hi> 1 <hi>Cor.</hi> 5. 22. 2 <hi>Cor.</hi> 5. 14, 15.</p>
+            </div>
+            <div type="question">
+               <head>Queſt.</head>
+               <p>
+                  <hi>But it is commonly ſayd,</hi> that it were juſt with God to take and caſt into hell ſo ſoon as they are born into the World.</p>
+               <p>
+                  <hi>Anſw.</hi> I ſay that puniſhment which was due unto us by the ſin of the firſt <hi>Adam</hi> is ta<g ref="char:EOLhyphen"/>ken away by the death of the ſecond <hi>Adam, Heb.</hi> 9. 15. That by the meanes of death for the redemption of the Tranſgreſſions that were under the firſt Teſtament, compa<g ref="char:EOLhyphen"/>red 2 <hi>Pet.</hi> 1. 9. Now if any ſay damnation in hell ſhall be given for <hi>Adams</hi> ſin, I demand where that Scripture is to be found?</p>
+            </div>
+            <div type="question">
+               <pb n="3" facs="tcp:169879:4"/>
+               <head>Queſt.</head>
+               <p>
+                  <hi>But is it not ſaid by</hi> David, <hi>that he was ſhapen in iniquity, and in ſin his mother concei<g ref="char:EOLhyphen"/>ved him,</hi> Pſ. 51. 5? And we are by nature the children of wrath, <hi>Eph.</hi> 2. 3. <hi>And</hi> Job <hi>querieth,</hi> Job 14. 4. Who can bring a clean thing out of an unclean? <hi>therfore ſure there is original ſin?</hi>
+               </p>
+               <p>
+                  <hi>Anſw. David</hi> (I ſuppoſe) ſpeaks of the ſin of his mother, he ſpeaketh not of damna<g ref="char:EOLhyphen"/>tion, neither doth <hi>Paul</hi> nor <hi>Iob.</hi> But the bleſſed Apoſtle <hi>Paul</hi> ſaith, <hi>Epheſ.</hi> 2. 23. <hi>They were by nature the children of wrath:</hi> that was when they walked according to the courſe of the world, when they walked acording to the Prince of the air, when their converſation was after the fleſh, fulfilling the deſires of the fleſh and mind: In this eſtate he, &amp; all that are ſuch actors are the children of wrath: now untill the creature cometh to maturity they cannot walk according to the courſe of the World, or the Prince of the air; theſe can<g ref="char:EOLhyphen"/>not fulfill the luſts of the fleſh and mind: So that you ſee this maketh not for damnation, as being ſimply born into the World, neither doth that bleſſed man <hi>Job</hi> affirm any ſuch thing: I will not deny but that we by na<g ref="char:EOLhyphen"/>ture are unclean, and ſtand in oppoſition a<g ref="char:EOLhyphen"/>gainſt God, but there is of God given forth to the creature (through Chriſt) to change nature, and to bring the ſoul home to him<g ref="char:EOLhyphen"/>ſelf; as I ſhall ſhew afterwards. By this, I hope, you ſee that none ſhall periſh for <hi>A<g ref="char:EOLhyphen"/>dams;</hi>
+                  <pb n="4" facs="tcp:169879:5"/> ſin take ſome ground from Scripture, <hi>Ezek.</hi> 18. 4. 20. nay moſt of the Chapter is to this purhoſe.</p>
+            </div>
+            <div type="objection">
+               <head>Object.</head>
+               <p>
+                  <hi>But God ſaith in the</hi> 20 Exod. 5. <hi>That he will viſit the ſins of the father upon the children unto the third and fourth generation.</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> I grant it, but ſee the ſame Text telleth you who they are, they are the haters of God; that is, if the father and the ſon are both ha<g ref="char:EOLhyphen"/>ters of God, both dye for it; but he vvill ſhew mercy on thouſands that love him: the 18 of <hi>Ezek.</hi> doth clear this.</p>
+            </div>
+            <div type="question">
+               <head>Queſt. <hi>But if this be ſo, then all children that die in their infancy are ſaved?</hi>
+               </head>
+               <p>
+                  <hi>Anſw.</hi> It may well be ſo concluded up<g ref="char:EOLhyphen"/>on; for I do not finde any condemnation in Hell fire, but for refuſing Chriſt; the King<g ref="char:EOLhyphen"/>dom of God being made up of children, <hi>Mark</hi> 10. 14.</p>
+            </div>
+            <div type="question">
+               <head>Queſt.</head>
+               <p>
+                  <hi>Sure it cannot he that Chriſt ſhould dye for every man and woman in the world; for then all ſhould be ſaved, or ſome may have ſin par<g ref="char:EOLhyphen"/>doned, and be damned, which would be abſurd to affirm: or if it were the intent of the Father that his Son ſhould dye for all to ſave them, and all not be ſaved, then the Fathers ends were fru<g ref="char:EOLhyphen"/>ſtrate, which could not, nor cannot be.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> That Chriſt dyed for all, and every man and woman in the world, theſe Scrip<g ref="char:EOLhyphen"/>tures will make it appear, <hi>Heb.</hi> 2. 9. He ta<g ref="char:EOLhyphen"/>ſted death for every man, 1 <hi>John</hi> 29. for the
+<pb n="5" facs="tcp:169879:5"/> world, 1 <hi>John</hi> 2. 2 1 <hi>Tim.</hi> 2. 6. <hi>Rom.</hi> 5 18. By theſe it is evident that he layd down his life for the whole lump of Mankind; and whereas you ſay that then all ſhall be ſaved, I demand where that Scripture can be found, that all that Chriſt dyed for ſhall be ſaved? this is but an Argument that fleſh and blood maketh; for it is evident that ſome which Chriſt dyed for ſhall periſh, thoſe which de<g ref="char:EOLhyphen"/>ny him, 2 <hi>Pet.</hi> 2. 1. <hi>Even denying the Lord that bought them:</hi> Now either Chriſt did buy them, or he did not buy them; if he did, then is the thing granted which I labour to prove; if he did not, then what means this Scripture? further, Whereas then you ſay ſin may be pardoned, and yet the creature periſh, which would be abſurd; I ſay it is no abſur<g ref="char:EOLhyphen"/>dity to ſay that Chriſt hath taken away ſin; nay it was the firſt doctrin <hi>Paul</hi> and <hi>Pe<g ref="char:EOLhyphen"/>ter</hi> did preach to unbeleevers, 1 <hi>Cor.</hi> 15. 3. <hi>Acts</hi> 3. the laſt verſe, <hi>Luke</hi> laſt, 47. Repen<g ref="char:EOLhyphen"/>tance and Remiſſion of ſins ſhould be preach<g ref="char:EOLhyphen"/>ed in the name of Chriſt. And is it to be thought, that all thoſe to whom Repentance and Remiſſion of ſins were preached did be<g ref="char:EOLhyphen"/>leeve? Surely no, for he ſaith <hi>Rom.</hi> 10. 16. <hi>Who hath beleeved our report?</hi> with the Prophet <hi>Eſay</hi> 53. 1. And moſt ſure it is that the bleſſed Apoſtles did not preach forgiveneſs of ſins from qualifications, if you will do ſo or ſuch things, then Chriſt will pardon; but he, or
+<pb n="6" facs="tcp:169879:6"/> they preached what Chriſt had done. And this was the iſſue, that whoſoever beleeveth are juſtified from all things, <hi>Acts</hi> 13. 39. Not onely from <hi>Adams</hi> tranſgreſſion, but from all things: Now Chriſt did take away the ſin of <hi>Adam</hi> from al (as hath been ſhewed) And he that beleeveth not ſhall be damned. And for that of the Fathers intent in ſend<g ref="char:EOLhyphen"/>ing his ſon to die for all to ſave them; if not ſaved, then his ends were fruſtrated. Conſi<g ref="char:EOLhyphen"/>der this was the ultimate end of the Fathers ſending of his Son, <hi>John</hi> 3. 16. <hi>That whoſoever beleeveth ſhould be ſaved,</hi> he never intended that thoſe which refuſe, and rebell, and ſpurn at Grace and the Goſpel ſhould be ſaved And would it not be as abſurd to ſay, that the Fa<g ref="char:EOLhyphen"/>thers intents are fruſtrated by waiting pati<g ref="char:EOLhyphen"/>ently on poor ſinners, drawing of them, and uſing means of Grace towards them: And yet they are very enemies to him, ſee <hi>Rom.</hi> 2. 45. Not knowing that the goodneſs of God leadeth thee to repentance, but thou af<g ref="char:EOLhyphen"/>ter thy hard and impenitent heart treaſureſt up to thy ſelf wrath againſt the day of wrath, 2 <hi>Chro.</hi> 36. 15, 16.</p>
+            </div>
+            <div type="question">
+               <head>
+                  <hi>Queſt.</hi> I deſire you would make it clearer, that Chriſt dyed for all, ſurely the ſcripture is very dark for that purpoſe?</head>
+               <p>Anſw. <hi>The Scripture is not dark in that thing, it is mens judgements that are dark</hi>
+               </p>
+            </div>
+            <div type="question">
+               <pb n="7" facs="tcp:169879:6"/>
+               <head>Queſt. <hi>But there are many Objections againſt it in Scripture?</hi>
+               </head>
+               <p>
+                  <hi>Anſw.</hi> There are more Objectors againſt it: indeed ſome places of ſcripture before they are wel weighed, ſeem to thwart it; but being wel conſidered, they uphold it. I deſire what can be objected againſt it may be brought forth.</p>
+            </div>
+            <div type="objection">
+               <head>Object, 1.</head>
+               <p>
+                  <hi>The World, and every man, and all men, muſt not be taken ſo largely as you have layd down; but ſome of all forts, and every belee<g ref="char:EOLhyphen"/>ver, and the world of beleevers, theſe Chriſt died for it is evident.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> I grant that all and every man, in ſome places of Scripture doth not mean, all, and every Individuall, but in the forenamed Scriptures it doth mean all and every Indivi<g ref="char:EOLhyphen"/>dual: for theſe Reaſons, as <hi>Heb.</hi> 2. 9. <hi>Iohn</hi> 1. 29. <hi>Rom</hi> 5. 18. 1 <hi>Tim.</hi> 2. 6. 1 <hi>John</hi> 2. 21.</p>
+               <p>Firſt Reaſon is, becauſe God commands the Goſpel to be preached to every creature, <hi>Mark</hi> 16. 15. Now Goſpel is glad-tydings, and this glad-tidings is, that there is peace and remiſſion of ſins by Jeſus Chriſt, <hi>Acts</hi> 13. 38. <hi>Luke</hi> laſt 47. <hi>Rom.</hi> 10. 15. Chriſt crucified, and dead, and riſen again, and whoſoever belee<g ref="char:EOLhyphen"/>veth ſhall be ſaved, he that beleeveth not ſhall be damned, <hi>Mark</hi> 16. 16. And ſurely God would never have commanded glad-tydings to be preached to all, if Chriſt had dyed but for ſome: Therefore without controverſie, theſe Scriptures mean every Individual. Fur<g ref="char:EOLhyphen"/>ther
+<pb n="8" facs="tcp:169879:7"/> conſider, if Chriſt did not dye for all then what glad-tydings can be preached to all? There is no glad-tydings to that man which Chriſt did not dye for, nor any ſalva<g ref="char:EOLhyphen"/>tion, <hi>Acts</hi> 4. 12. <hi>There is no name under hea<g ref="char:EOLhyphen"/>ven by which any can be ſaved, but by the name of Chriſt.</hi>
+               </p>
+               <p>Second Reaſon. God commands all men to beleeve and repent; The time of ignorance God winketh at, but now commands all men every where to repent, <hi>Acts</hi> 17. 30. There<g ref="char:EOLhyphen"/>fore it muſt needs be, that theſe Scriptures doe mean Chriſts death for all, and every In<g ref="char:EOLhyphen"/>dividuall. See how I reaſon.</p>
+               <p>If God commands all men to beleeve and repent when Chriſt dyed but for ſome,</p>
+               <p>Then God commands ſome to beleeve and repent which his Sonne did not dye for.</p>
+               <p>But God commands all men to beleeve and repent.</p>
+               <p>Yea it is granted by thoſe which hold forth that Chriſt dyed for none but Beleevers: and it is a truth whether any ſhould grant it or no; and it is moſt ſure that God will com<g ref="char:EOLhyphen"/>mand no man to beleeve an untruth.</p>
+               <p>Third Reaſon God doth declare, that thoſe that beleeve not the Record of his Son make him a lyar, 1 <hi>John</hi> 5. 10. Novv that man that Chriſt did not dye for, doth not make God a lyar, although he never be<g ref="char:EOLhyphen"/>leeveth;
+<pb n="9" facs="tcp:169879:7"/> but the unbeleever maketh him a lyar. I reaſon thus.</p>
+               <p>If the unbeleever that beleeveth not God, maketh him a lyar,</p>
+               <p>Then there was a Chriſt which did die for the unbeleever, or thoſe that periſh.</p>
+               <p>But the unbeleever that beleeveth not makes God a lyar.</p>
+               <p>Therefore there was a Chriſt which did dye for the unbeleever, or thoſe which pe<g ref="char:EOLhyphen"/>riſh.</p>
+               <p>Fourth Reaſon. God in the day of judge<g ref="char:EOLhyphen"/>ment will condemn thoſe ſouls that have not beleeved on his Son. Now if there was no Chriſt that did dye for them, what ſhall they be condemned for? For God wil do that which is right, <hi>Gen.</hi> 18. 25. Surely he will not condemn ſuch without a juſt cauſe.</p>
+               <p>If God will damn thoſe that beleeved not the truth,</p>
+               <p>Then there was a Chriſt which did dyed for thoſe that are damned.</p>
+               <p>But God will damn all that beleeve not the Truth. 2 <hi>Theſ.</hi> 2. 12.</p>
+               <p>Therefore there was a Chriſt which did dye for thoſe that are damned.</p>
+               <p>And thus you ſee that it muſt needs be a Truth, that Chriſt dyed for all, and every man, and this muſt needs be the meaning of the Holy Ghoſt in theſe Scriptures.</p>
+            </div>
+            <div type="objection">
+               <head>Object. 3. <hi>But if Chriſt dyed for all, why are not all ſaved?</hi>
+               </head>
+               <pb n="10" facs="tcp:169879:8"/>
+               <p> 
+                  <hi>Anſw.</hi> Becauſe all do not beleeve; although God did reedeem all <hi>Iſrael</hi> out of <hi>Egypt,</hi> yet none entered <hi>Canaan</hi> but thoſe that beleeved, <hi>Jude</hi> 4. ver. So although Chriſt redemeed all out of <hi>Egyptian</hi> darkneſs, yet none ſhall be ſaved but thoſe that beleeve.</p>
+            </div>
+            <div type="objection">
+               <head>Object. 4. <hi>It is ſaid</hi> Rom. 5. 9. <hi>That</hi> many are made righteous; <hi>and in</hi> John 10. I lay down my life for my ſheep.</head>
+               <p>
+                  <hi>Anſw.</hi> I beleeve that in one ſenſe there is but few made righteous, that is, through Faith, and the application of the blood of Chriſt, but in that ſenſe which I conceive the Holy Ghoſt to ſpeak by the Apoſtle, <hi>All are righteous,</hi> that is, by having the ſin of <hi>A<g ref="char:EOLhyphen"/>dam</hi> pardoned: And for the word <hi>many,</hi> it ſignifieth <hi>all;</hi> many being in oppoſition to a few; and this may be cleared by the twelfth Chapter of <hi>Daniel,</hi> where by many are to be underſtood all; <hi>Many ſhall ariſe, ſome to ever<g ref="char:EOLhyphen"/>laſting life, and ſome to everlaſting contempt.</hi> Now if many here be not all, then ſome ſhall lie in the duſt for ever; which muſt not be admit<g ref="char:EOLhyphen"/>ted: So that you ſee, many is all in this Scripture and others: for if <hi>Adams</hi> offence reached to all (as it did) in the former part of the Text <hi>(many)</hi> then why not the latter as well as the former. As for Chriſts laying down of his life for his Sheep, this is truth he did ſo: but they were not Sheep when he layd down his life, but Goats. The Text
+<pb n="11" facs="tcp:169879:8"/> doth not ſay he did not lay down his life for the Goats. So the Apoſtles words, <hi>Gallat.</hi> 2. 20. <hi>Chriſt gave himſelf for me;</hi> Did Chriſt give himſelf for none but for the Apoſtle <hi>Paul?</hi>
+               </p>
+            </div>
+            <div type="objection">
+               <head>Object. 5. <hi>Surely Chriſt would not dye for thoſe he would not pray for; but Chriſt would not pray for the World,</hi> 17 John 9.</head>
+               <p>
+                  <hi>Anſw.</hi> I beleeve Chriſt did not dye for any more than he prayed for; but Chriſt prayed for beleevers, but Chriſt prayed for unbeleevers, and there is not any other in the word. In this Text he ſaith, he prayes not for the world; but in the 20 verſe, there he prayeth for unbeleevers, compared with <hi>Luke</hi> 3. 34. <hi>Father forgive them for they know not what they do.</hi> Thus you ſee Chriſt prayed for the World, although at that time he did not; yet it doth not follow that he never prayed for the world; for you ſee the con<g ref="char:EOLhyphen"/>trary: Further know, that it is one thing to pray, and another thing to dye.</p>
+            </div>
+            <div type="objection">
+               <head>Object. 6. <hi>If Chriſt died for all, then men muſt have free will to take and refuſe good and e<g ref="char:EOLhyphen"/>vill as they pleaſe.</hi>
+               </head>
+               <p>
+                  <hi>Anſw.</hi> And why ſo? It doth not follow, that becauſe Chriſt dyed for all, any hath free will, I ſee no ſuch thing can be inferred from it.</p>
+            </div>
+            <div type="objection">
+               <head>Object. <hi>But ſurely it connot be that Chriſt ſhould die for all; Did he die for</hi> Judas?</head>
+               <pb n="12" facs="tcp:169879:9"/>
+               <p> 
+                  <hi>Anſw.</hi> Yea, he died for <hi>Judas.</hi> If for e<g ref="char:EOLhyphen"/>very man, then for <hi>Iudas;</hi> but for every man, <hi>Heb.</hi> 2. 9. therefore for <hi>Iudas.</hi>
+               </p>
+            </div>
+            <div type="objection">
+               <head>Object. 8. <hi>But</hi> Judas <hi>was a Devil, and ſure<g ref="char:EOLhyphen"/>ly the Pſalms ſaith of him, that he ſhould betray Chriſt, as he did; would Chriſt die for a Tray<g ref="char:EOLhyphen"/>tor?</hi>
+               </head>
+               <p>
+                  <hi>Anſw.</hi> That <hi>Iudas</hi> was a Devill I grant, but he was not ſo from the beginning; ſee the 9. Chap. of S. <hi>Luke,</hi> there Chriſt calleth twelve to him, <hi>(Judas</hi> being one of them) and gave them power over all Devills, and to preach the Goſpell, and to heal diſeaſes; ſurely Chriſt never gave Commiſſion to any De<g ref="char:EOLhyphen"/>vill to do theſe things, and ſure it is, that his own corruption and covetous heart to betray his Maſter Chriſt for money, that made him a Devill.</p>
+            </div>
+            <div type="objection">
+               <head>Object. 9. <hi>But was he not ordained of God, that he ſhould betray his Maſter Chriſt?</hi>
+               </head>
+               <p>
+                  <hi>Anſw.</hi> No, he was not ordained of God; for then (if granted) ſee what will follow, That men may do that which God ordaineth them to do, and yet periſh; and ſurely no man that doth that which God would have him to doe, ſhall periſh, but ſhall be ſa<g ref="char:EOLhyphen"/>ved. True, God did know that <hi>Iudas</hi> would betray his Son, and God ſent his Son into the world that he ſhould die for Sinners, but that God intended that his Son ſhould be betrayed and murthered in that barbarous
+<pb n="13" facs="tcp:169879:9"/> manner, I cannot ſee it will hold; for ſee the bleſſed Apoſtle <hi>Peter,</hi> Acts 2. 22, 23. <hi>Yee men of Iſrael, hear theſe words, Ieſus of Nazareth, a man approved of God among you,</hi> v. 23. <hi>him have yee taken, and by wicked hands have crucifi<g ref="char:EOLhyphen"/>ed and ſlain:</hi> And ver. 36. and chap. 3. ver. 14, 15. <hi>Yee denied the holy one and the juſt, and de<g ref="char:EOLhyphen"/>ſired a murderer to be granted unto you, and kil<g ref="char:EOLhyphen"/>led the Prince of life.</hi> Now if God made them on purpoſe to doe theſe things, why doth <hi>Peter</hi> ſo ſharply reprove them? Thus you ſee that Betrayers and Murderers are reproved, &amp; not without cauſe, The Son of man goeth about as it is written, but wo unto that man by whom he is betrayed. As if Chriſt had ſaid, Wo to <hi>Iudas</hi> that Traytor, wo to <hi>Iudas</hi> that delivereth the Son of Man into the hands of men to be crucified, wo to <hi>Iudas</hi> for his covetous heart, to betray his Maſter for thirty pieces of ſilver, <hi>(a goodly price that I was valued at of them,</hi> Zach. 11. v. 13.) wo unto <hi>Iudas</hi> that ever he was born, good had it been for him if he had never been born: And thus Chriſt would never have ſaid, if God had made him on purpoſe to betray him, and conſequently <hi>Iudas</hi> doing the Will of God.</p>
+            </div>
+            <div type="objection">
+               <head>Object. 10. <hi>But it is ſaid, whom God loveth, be loveth to the end.</hi>
+               </head>
+               <p>
+                  <hi>Anſw.</hi> Indeed men often ſay ſo, but I
+<pb n="14" facs="tcp:169879:10"/> ſee no Scripture ſay ſo; that in the 13. Chapter of S. <hi>Iohn</hi> and the firſt verſe, is urged to that purpoſe, the Text ſaith not ſo, it readeth it thus, <hi>Having loved his own which were in the world, he loved them unto the end.</hi> Now all true Believers are Chriſts own which he loveth for ever; and to ſay any o<g ref="char:EOLhyphen"/>ther thing from the words is to ſtretch it on the Tenters.</p>
+            </div>
+            <div type="objection">
+               <head>Object. 11. <hi>If <g ref="char:V">Ʋ</g>niverſall Redemption be granted, it will overthrow Election and Reproba<g ref="char:EOLhyphen"/>tion.</hi>
+               </head>
+               <p>
+                  <hi>Anſw.</hi> It will not overthrow Election although it be granted, I deſire you would o<g ref="char:EOLhyphen"/>pen your ſelf concerning Election and Re<g ref="char:EOLhyphen"/>probation, and I ſhall give you my judge<g ref="char:EOLhyphen"/>ment, and I hope ſatisfaction, by the Word which muſt be our Rule.</p>
+            </div>
+            <div type="objection">
+               <head>Object.</head>
+               <p>
+                  <hi>I believe that God from all eternity did chooſe ſome to be Veſſells of glory, which can never periſh, and did reprobate others, lea<g ref="char:EOLhyphen"/>ving them to their ſelves, which cannot bee ſa<g ref="char:EOLhyphen"/>ved.</hi>
+               </p>
+               <p>I Anſwer. I am perſwaded that it was the purpoſe of God from all eternity, that all that believe ſhould be ſaved: Nay further, he choſe them to believe, to be obedient, but it was through his Son, he did not chooſe any becauſe they would believe and repent, but they therefore believe and repent be<g ref="char:EOLhyphen"/>cauſe
+<pb n="15" facs="tcp:169879:10"/> he choſe them; indeed Chriſt is the cauſe of ſalvation, Sin the cauſe of Repro<g ref="char:EOLhyphen"/>bation, and for Reprobation without re<g ref="char:EOLhyphen"/>ference to Sin, I ſee not how it can be admi<g ref="char:EOLhyphen"/>ted, for ſee what will follow if otherwiſe conſidered.</p>
+               <p>Firſt, They were never righteous, I mean in <hi>Adam,</hi> thoſe which were reprobated, for either they were, or they were not; if <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> righteous, how could they be called ſinners by defiling themſelves? and then what means that in <hi>Eccleſ.</hi> 7 29. that God hath made man upright? In this place the whole Creation of mankind is to bee under<g ref="char:EOLhyphen"/>ſtood.</p>
+               <p>Then ſecondly, If they were made righ<g ref="char:EOLhyphen"/>teous it ſeems they were reprobated, and then afterwards made righteous, and who will own this? And here I deſire to ſtate ſome Queſtions.</p>
+               <p>1. <hi>Queſt.</hi> Firſt, if any were reprobated from eternity, whether or no that thoſe did fin in <hi>Adam,</hi> if reprobated, ſurely they could not be worſe after than before, they were Veſſells of wrath after, ſo they were be<g ref="char:EOLhyphen"/>fore.</p>
+               <p>2. <hi>Queſt.</hi> Secondly, I demand whether or no that all that were in <hi>Adam</hi> (which were the whole Creation of men and women) had power from God to ſtand, yea or no.</p>
+               <pb n="16" facs="tcp:169879:11"/>
+               <p> 3 <hi>Queſt.</hi> I demand whether or no that there is any Goſpell, any glad tydings for that man or woman that was reprobated from eternity?</p>
+               <p>4 <hi>Queſt.</hi> I demand whether or no that ſuch Reprobates are commanded to believe and repent? either they are, or they are not; if they are commanded to believe, then I demand what it is that they muſt believe? ſure there is no Chriſt for them to believe in; if they are not commanded to believe and re<g ref="char:EOLhyphen"/>pent, then I ſay, where there is no Law, there is no tranſgreſſion, <hi>Rom.</hi> 4. 15.</p>
+               <p>5 <hi>Queſt.</hi> I demand whether or no that ſuch that are ſo reprobated, whether there is any poſſibility for them to be ſaved, if there is, then Chriſt muſt needs die for them; for <hi>Acts</hi> 4. 12. <hi>There is no other Name under hea<g ref="char:EOLhyphen"/>ven by which men can be ſaved:</hi> if no poſſibili<g ref="char:EOLhyphen"/>ty, then to what end do Miniſters give ſuch exhortations? it is all one as if they ſhould ſay nothing to them; for they cannot be bet<g ref="char:EOLhyphen"/>ter or worſe, periſh they muſt without reme<g ref="char:EOLhyphen"/>dy, becauſe reprobated from eternity.</p>
+            </div>
+            <div type="objection">
+               <head>12 Object. <hi>Then (it ſeems) you hold, that there is no Reprobation.</hi>
+               </head>
+               <p>
+                  <hi>Anſw.</hi> I do not hold that there is no Re<g ref="char:EOLhyphen"/>probation, but I hold that none are reproba<g ref="char:EOLhyphen"/>ted but for ſin.</p>
+            </div>
+            <div type="objection">
+               <head>13 Object.</head>
+               <p>
+                  <hi>But was not</hi> Eſau <hi>reprobated,</hi>
+                  <pb n="17" facs="tcp:169879:11"/> 
+                  <hi>being hated before he was born, and</hi> Pharoah <hi>made on purpoſe to be hardened,</hi> Rom. v. 9. <hi>and ſee the Apoſtle</hi> Peter <hi>in his firſt Epiſtle, ch.</hi> 2. <hi>v.</hi> 8. <hi>and</hi> Jude 4. <hi>and in the</hi> 11 <hi>th. to the</hi> Romans <hi>it is ſaid,</hi> God gave Iſrael the ſpirit of ſlumber, <hi>compared with</hi> John 12. ver. 40. He hath blin<g ref="char:EOLhyphen"/>ded their eyes, and hardened their hearts: <hi>and the Wiſeman ſaith,</hi> Prov, 16. v. 4. That the wicked are for the day of evill, and is reſer<g ref="char:EOLhyphen"/>ved to the day of deſtruction, <hi>Iob.</hi> 21. v. 30. and that veſſells of wrath are fitted to deſtru<g ref="char:EOLhyphen"/>ction, <hi>Rom.</hi> 9. 22.</p>
+               <p>
+                  <hi>Anſw.</hi> Truly theſe Scriptures, and ſome others, doe ſeemingly make for that purpoſe, I ſhall by the aſſiſtance of God clear and re<g ref="char:EOLhyphen"/>concile them by other Scriptures. Conſider that of <hi>Jacob</hi> and <hi>Eſau, Rom.</hi> 
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. the Text doth not ſay he hated <hi>Eſau</hi> before he was born, but he ſaith, v. 11, 12. <hi>that the elder ſhould ſerve the younger,</hi> as you may ſee, <hi>Gen.</hi> 25. v. 22, 23.</p>
+               <p>Now dear friends, conſider there cannot be love and hatred in God, yet I grant that God did hate <hi>Eſau,</hi> but not before he was born, but it muſt be conſidered what it is for God to hate, I ſay, what it is for to hate and harden, for I will put them together: Now God is ſaid to hate and to harden when he leaveth the creature to himſelf; but I af<g ref="char:EOLhyphen"/>firm, that God never leaveth the creature un<g ref="char:EOLhyphen"/>till the creature firſt leaveth him; ſee why
+<pb n="18" facs="tcp:169879:12"/> God left <hi>Eſau, Obadiah</hi> v. 10. <hi>for thy violence a<g ref="char:EOLhyphen"/>gainſt thy brother</hi> Jacob <hi>ſhame ſhall cover thee, and thou ſhalt be cut off for ever,</hi> compared with <hi>Heb.</hi> 12. 16, 17. and the cauſes why God left <hi>Pharoah,</hi> were,</p>
+               <list>
+                  <item>Firſt, he did conſult againſt the people of God, <hi>Exod.</hi> 1. v. 10.</item>
+                  <item>Secondly, he did afflict them with burdens, v. 6. 11. and 13. 14.</item>
+                  <item>Thirdly, he commanded the Midwives to kill the male children, he was a murderer, v. 13, 16.</item>
+                  <item>Fourthly, he wovld have killed <hi>Moſes,</hi> ch. 2. v. 15.</item>
+               </list>
+               <p>And thus you ſee that God doth not hate nor harden without a cauſe: I demand whe<g ref="char:EOLhyphen"/>ther or no that it was an evill in <hi>Pharaoh</hi> to have an hard heart? if it were, who was the cauſe of it? ſurely not God, but himſelf. And truly <hi>Iacob</hi> and <hi>Eſau</hi> ſeemes to mee to type out the two ſeeds of <hi>Abraham,</hi> as the 9. of the <hi>Rom.</hi> will teſtifie, which two ſeedes the Apoſtle makes forth, <hi>Gal.</hi> 4. 19. to bee law and grace, fleſh and ſpirit, in <hi>Iſaac</hi> ſhall thy feed bee called; all that is Regenerated in Chriſt is that ſpirituall <hi>Iacob</hi> of Gods love, and that Myſtery of Iniquity is working <hi>Eſau,</hi> (ſo the word <hi>Eſau</hi> ſignifieth working) it was ſaid to <hi>Rebecca</hi> that two Nations were in her wombe, which two Nations were types
+<pb n="19" facs="tcp:169879:12"/> of Fleſh and Spirit. God having purpoſed from Eternity, that the younger <hi>Iacob</hi> or new ſpirituall <hi>Iacob</hi> ſhould be beloved evermore, &amp; old working fleſhly <hi>Eſau</hi> ſhould be deſtroy<g ref="char:EOLhyphen"/>ed. And for that in <hi>Pet.</hi> 1. 2. 8. It cannot be in<g ref="char:EOLhyphen"/>ferred from thence, that they were made on purpoſe for deſtruction, beeing unbeleevers they are appointed for deſtruction; for thus reades Mr. <hi>Tindall,</hi> And a ſtone to ſtumble at, and a rock to offend them which ſtumble at the Word, and beleeve not that whereon they were ſet: And what can be ſaid againſt this? If any ſhall ſay that ſome are appointed of God to ſtumble at Chriſt his Son, then I af<g ref="char:EOLhyphen"/>firm thoſe whoſoever doth that which God appointeth him to do (whatſoever it be) ſhall be ſaved, he cannot periſh that doth the will of God, or elſe it will follow, ſome may doe the will of God and be ſaved; and ſome doe his will and be damned: And how this can hold, I leave it to the ſpirituall to judge; for thoſe Scriptures in <hi>Iob</hi> 21. 30. <hi>Prov.</hi> 16. 4. <hi>Rom.</hi> 9. 22. <hi>Iude v.</hi> 4. one Anſwer to them all (to avoid prolixity) the texts will cleare it. Who are reſerved for wrath? wicked men ſaith the Text: ſo that you ſee they are wick<g ref="char:EOLhyphen"/>ed men that are made for deſtruction: they are wicked men that are ordained of old for condemnation, thoſe ſaith <hi>Jude,</hi> that turn the grace or God into wantonneſſe, now how
+<pb n="20" facs="tcp:169879:13"/> vain would it bee for any to ſay that the grace of God may bee turned into wanton<g ref="char:EOLhyphen"/>neſs before they were born. Now I demand who made thoſe wicked men veſſells of wrath? did God, or ſin? ſurely who dareth be ſo bold as to ſay God did? if themſelves, then where is Reprobation from eternity? for men from eternity were not made. And to that <hi>John</hi> 12, 40. he hath blinded, he hath hardened; And <hi>Rom.</hi> 11. 8. hee giveth the Spirit of ſlumber, doth God doe ſo by men? yea aſſuredly hee doth, but conſider three things.</p>
+               <list>
+                  <item>Firſt, what the Spirit of ſlumber is that God giveth to ſome.</item>
+                  <item>Secondly, to whom he gave it.</item>
+                  <item>Thirdly, wherefore he gave it.</item>
+               </list>
+               <p>1. The Spirit of ſlumber is for God to leave the poor creature to himſelf, this is the Spirit of ſlumber (I have ſhewed before that he leaveth no man, nor forſaketh none with<g ref="char:EOLhyphen"/>out cauſe) And truly, when God is departed from a ſoul, oh what a ſlumbering, what a ſlecpie condition will the poor creature bee in!</p>
+               <p>Wee will joyn the two next points together, who and wherefore. 2. they are un<g ref="char:EOLhyphen"/>godly men, for ſin they are given over, ſee <hi>Mat.</hi> 13. 15. <hi>they have cloſed their eyes ſaith our Saviour.</hi> Oh deer friends, I hum<g ref="char:EOLhyphen"/>bly
+<pb n="21" facs="tcp:169879:13"/> beſeech you in the bowels of Chriſt take heed how you infer that on the Creator which belongeth to the creature: I will ſpeak plainly, take heed you lay not mens ſinnes upon our good God, I know all or moſt men will be ready to ſay, God forbid wee ſhould do ſo; why let me I beſeech you once more ſpeak a few words in plain termes, whoſoever holdeth that God never intended mercy to ſome of the Sonnes &amp; daughters of men, but did without Reference to ſin and Tranſgreſſion Reprobate them from e<g ref="char:EOLhyphen"/>ternity: ah friends how can ſuch poor crea<g ref="char:EOLhyphen"/>tures but ſink under every burthen? how can ſuch hear when God ſaith harken? how can they ſee when God ſaith behold me, behold me? how can ſuch bee converted when God never intendeth it? And friends, doe you think that God will declare himſelf to be a gratious God, pardoning ſinne, and forgi<g ref="char:EOLhyphen"/>ving iniquity, when hee hath reſerved the greateſt part to be damned? ſee the 34 of <hi>Exod.</hi> 5, 6, 7. compared with 2 <hi>Chron.</hi> laſt 15. 16. verſes, <hi>Micha</hi> 7. 16. <hi>Who is a God like unto thee that pardoneth iniquity. Jonah</hi> 4. 2. And ſee what the Prophet <hi>Ieremiah</hi> ſaith in his <hi>Lam.</hi> 3. 33. For he doth not afflict willingly, nor greeve the children of men, ſee Jer. 13. 27. ſaith God to <hi>Ieruſalem,</hi> wilt thou not bee made clean, when ſhall it once bee. And in <hi>Hoſea</hi>
+                  <pb n="22" facs="tcp:169879:14"/> 11. 8. How ſhall I give thee up <hi>Ephraim,</hi> how ſhall I deliver thee <hi>Iſrael,</hi> my heart is turned within me, my repentings are kindled toge<g ref="char:EOLhyphen"/>ther. Now doe you think that God will uſe ſuch ſpeeches unto thoſe which he never in<g ref="char:EOLhyphen"/>tended ſhould be brought home unto him by the word? ſurely no; O I beſeech you take heed, take heed.</p>
+            </div>
+            <div type="objection">
+               <head>14. Obj. <hi>Hath not the Potter power over the clay to make one veſſell to honour, and another to diſhonour?</hi> as ſaith the Apoſtle <hi>Romans</hi> 9. verſe 21.</head>
+               <p>
+                  <hi>Anſw.</hi> God hath power to doe what hee pleaſeth, but I demand a queſtion; Is Gods will the rule of his power, or his power the rule of his will?</p>
+               <p>
+                  <hi>Anſw.</hi> It muſt be granted that his will is the rule of his power. <hi>Epheſ.</hi> 1.</p>
+               <p>For who dare deny, but that God hath power to deſtroy all the ſonnes and daugh<g ref="char:EOLhyphen"/>ters of men in a moment? but we ſee (bleſſed be his name) that he willeth it otherwaies, waiting at the door of poor ſinners heart to bring them to repentance. <hi>Rev.</hi> 3. 20. <hi>Behold I ſtand at the door and knock.</hi>
+               </p>
+            </div>
+            <div type="objection">
+               <head>15. Ob. <hi>But none can come to Chriſt except God draweth him.</hi> John 6. 44.</head>
+               <p>
+                  <hi>Anſw.</hi> I grant that none commeth except God draweth, it is the drawing of God which maketh ſoules to come, to Chriſt,
+<pb n="23" facs="tcp:169879:14"/> but the Queſtion is this, Do all that God draws come to Chriſt? If the Anſwer be Yea: Where is that Scrip<g ref="char:EOLhyphen"/>ture? For it is evident that God draweth all, ſee <hi>John</hi> 12. 32. <hi>If I bee lifted up I will draw all men after me.</hi> Now God draweth theſe ways:</p>
+               <p>Firſt, by the works of Creation, <hi>Pſal.</hi> 19. <hi>The heavens declare the handy<g ref="char:EOLhyphen"/>works of God.</hi>
+               </p>
+               <p>Secondly, he drawes by Goſpell<g ref="char:EOLhyphen"/>manifeſtations, it is to be declared to every creature, <hi>Mar.</hi> 16. 15.</p>
+               <p>Thirdly, God draws by his Spi<g ref="char:EOLhyphen"/>rit in the Goſpell, the Goſpell being the inſtrument to convey the Spirit of God to a ſoul; ſee the Promiſe, <hi>Acts</hi> 2. 17. tranſlated out of <hi>Joel</hi> 2. 28.</p>
+               <p>Now this Spirit begets Faith, <hi>Rom.</hi> 10. 17. therefore is this Word of our God to be higly prized, ſee <hi>Jer.</hi> 23. 29. <hi>Heb.</hi> 4. 12. <hi>Is not my Word like a ham<g ref="char:EOLhyphen"/>mer? Joh.</hi> 6. it's ſpirit and life. And thus you may ſee how God draweth by his Word and Spirit.</p>
+            </div>
+            <div type="objection">
+               <head>Object. 16.</head>
+               <p>
+                  <hi>But ſurely if God draweth,</hi>
+                  <pb n="24" facs="tcp:169879:15"/> 
+                  <hi>the creature muſt come; Hath any ſoul power to reſiſt God? And is it not ſaid in the</hi> 110. <hi>Pſal.</hi> Gods people ſhall be willing in the day of his power?</p>
+               <p>
+                  <hi>Anſw.</hi> I have ſufficiently. proved, that God draweth all; to that of mens power to reſiſt God, I anſwer, Men do not reſiſt God by power, it is weakneſs to reſiſt God, and that men may reſiſt God, ſee Act. 7. 51. compa<g ref="char:EOLhyphen"/>red with Zach. 7. 10, 11, 12, 13, 14. compared with Prov. 1. 21, 22, 23, 24. 25, 26. And for that of Gods people being willing in the day of his pow<g ref="char:EOLhyphen"/>er, I grant his people ſhall, that is, Believers, where Chriſt hath prevai<g ref="char:EOLhyphen"/>led by his love, Theſe, and onely theſe ſhall willingly follow the Lamb whitherſoever he goeth in the day of Gods power, as willingly to ſuffer, as to be free from ſuffering.</p>
+            </div>
+            <div type="objection">
+               <head>Object. 17.</head>
+               <p>
+                  <hi>It cannot bee that God draweth all men, for the Heathen have not the Goſpell, and you ſaid before, that the Goſpell is the way to convey the Spi<g ref="char:EOLhyphen"/>rit to ſouls, which the Heathen have not.</hi>
+               </p>
+               <pb n="25" facs="tcp:169879:15"/>
+               <p> 
+                  <hi>Anſ.</hi> Who ſaith they have not? To this Objection, this I ſhall ſay, that God hath given forth ſo much of himſelf to every creature, to leave the creature without excuſe, and to clear his own juſt proceedings, ſee what is ſaid of the Heathens, <hi>Rom.</hi> 1. 18, 19, 20, 21, 22, 23, 24. to the latter end. See <hi>Rom.</hi> 10. 18. <hi>Have they not heard? yes verily, their ſound went in<g ref="char:EOLhyphen"/>to all the earth, and their words unto the ends of the world,</hi> compared with <hi>Col.</hi> 1. 23. ſaith the bleſſed Apoſtle, it hath been declared (meaning the Goſpell) to every creature, or as the word is in the Greek, in every crea<g ref="char:EOLhyphen"/>ture. And what might be ſpoken from <hi>Job</hi> and the Queen of the South? but I forbear; where much is given, much ſhall be required.</p>
+            </div>
+            <div type="objection">
+               <head>Object. 18.</head>
+               <p>
+                  <hi>But if it ſhould be gran<g ref="char:EOLhyphen"/>ted that Chriſt did die for all, as I be<g ref="char:EOLhyphen"/>lieve in ſome ſenſe he did, yet none hath any ability to believe except it be given of God.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> I am glad to hear that it is
+<pb n="26" facs="tcp:169879:16"/> believed that Chriſt died for all; but conſider, it muſt not be made forth in mans ſenſe, but in Scripture-ſenſe, according to the minde of the Holy Ghoſt in Scripture; and for any abi<g ref="char:EOLhyphen"/>lity in the creature, I mean naturally to believe in Chriſt, we agree: For no one in the world hath free will, but as I have ſhewed, God giveth forth of himſelf to the creature, to cauſe the creature to believe, <hi>Acts</hi> 17. 31.</p>
+            </div>
+            <div type="objection">
+               <head>Object. 19.</head>
+               <p>
+                  <hi>If thoſe which believe not ſhall be damned, as now I ſee they ſhall, then you have contradicted your ſelf; for in your former diſcourſe you ſaid, that all children that die in their infan<g ref="char:EOLhyphen"/>cy are ſaved, they cannot believe, there<g ref="char:EOLhyphen"/>fore they muſt be damned from your own words,</hi> Mar. 16. 16. he that believeth not ſhall be damned.</p>
+               <p>
+                  <hi>Anſw.</hi> I grant that children cannot believe; for believing is faith, and faith cometh by hearing, <hi>Rom.</hi> 10. 17. and yet they cannot be damned, be<g ref="char:EOLhyphen"/>cauſe where there is no Law, there
+<pb n="27" facs="tcp:169879:16"/> is no Tranſgreſſion, ſaith the bleſſed Apoſtle, Rom. 4. 15. But God made no law with children, (as infants in the Cradle) Deut. 11. 2. And know you this day, for I ſpeak not to your children, which have not known, and which have not ſeen the chaſtiſe<g ref="char:EOLhyphen"/>ments of the Lord: And when the Lord ſaith, hear or behold, as in E<g ref="char:EOLhyphen"/>zek. 18. 25. with Mich. 6. 1, 2, 3. he ſpeaketh not to thoſe which are ſmal children, but to thoſe which are ca<g ref="char:EOLhyphen"/>pable of the voice of the Lord; ſo that you ſee it doth not contradict what was ſaid before.</p>
+            </div>
+            <div type="objection">
+               <head>Object. 20.</head>
+               <p>
+                  <hi>What need is there for Goſpell-Miniſters to tell men Chriſt died for all? is it not enough to tell them that he died for ſin<g ref="char:EOLhyphen"/>ners, for the ungodly, and for the worſt of ſin<g ref="char:EOLhyphen"/>ners?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> For theſe reaſons they muſt needs declare it.</p>
+               <p>Firſt, becauſe it is truth to tell them that Chriſt died for all, and Goſpel-Miniſters muſt needs declare Truth.</p>
+               <pb n="26" facs="tcp:169879:17"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="27" facs="tcp:169879:17"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="28" facs="tcp:169879:18"/>
+               <p> Secondly, becauſe if it be not de<g ref="char:EOLhyphen"/>clared that Chriſt died for all, but for ſome few onely, then what man can have a ſure ground that Chriſt died for him? For if any be left out (I mean that Chriſt died not for) moſt men have reaſon to doubt that Chriſt died not for them; and in<g ref="char:EOLhyphen"/>deed if there were but two in the whole world which Chriſt did not dy for, every poor ſoul might queſtion it ſelf, that they were the man, the woman, that he died not for.</p>
+               <p>Thirdly, the third reaſon why Goſpel-Miniſters muſt needs declare Chriſt died for all, elſe they preach but a piece of the Goſpel; nay if thoſe which preach do not believe Chriſt died for all, and ſo preach, then they have no good newes for ſome poor ſouls, and (in plain terms) they ſay thus, Friends, there is good newes from heaven for ſinners, but it is but for ſome ſinners, take it amongſt you, Chriſt died for ſome of you, but I cannot tell who you are, you ſhall
+<pb n="29" facs="tcp:169879:18"/> know when you believe; for I will tell you, you that believe, whoſoever you are, ſhall be ſaved, and you which believe not ſhall be damned. Nay further, theſe men tell their hea<g ref="char:EOLhyphen"/>rers, that they cannot eſcape if they neglect ſo great ſalvation. Now what can this Doctrine beget in a ſoul, but a ſuppoſed hope? Nay, why doth the Miniſter ſo charge many a poor ſoul with that which is not true. As thus, if you believe not, you ſhall be damned, when he believes there was no Chriſt died for him; and take heed you deſpiſe not Chriſt, then you cannot eſcape, when he is per<g ref="char:EOLhyphen"/>ſwaded that Chriſt dyed not for him: for either he did, or he did not; if hee did not, why doth he charge him for an unbeleever? there was no object for him to beleeve in; if hee did die for that unbeleever, its more than the Preacher knoweth, for hee beleeves Chriſt dyed but for a few, and whe<g ref="char:EOLhyphen"/>ther he bee one that he dyed for, hee muſt leave it.</p>
+            </div>
+            <div type="objection">
+               <pb n="30" facs="tcp:169879:19"/>
+               <head>Ob. 21. <hi>Doth God give all power alike?</hi>
+               </head>
+               <p>
+                  <hi>Anſ.</hi> No, to ſome more, to ſome leſs, to one hee gives five talents, to another two, to another one; where much is given, much is required.</p>
+            </div>
+            <div type="objection">
+               <head>Ob. 22. <hi>Surely Chriſt dyed for ſome, but onely for a temporall being.</hi>
+               </head>
+               <p>
+                  <hi>Anſ.</hi> Where is that proof? what Chriſt did for any one muſt be belee<g ref="char:EOLhyphen"/>ved and no more.</p>
+               <p>He that is commanded to beleeve more than Chriſt did for him, is com<g ref="char:EOLhyphen"/>manded to beleeve an untruth.</p>
+            </div>
+            <div type="objection">
+               <head>Ob. 23. <hi>Surely it muſt needs be if Chriſt dyed for all men, then all muſt have free will?</hi>
+               </head>
+               <p>
+                  <hi>Anſ.</hi> And why ſo? why muſt men have free will if Chriſt dyed for all, more than if Chriſt dyed but for ſome? I have proved before that God giveth forth of himſelf to the Crea<g ref="char:EOLhyphen"/>ture to leave the Creature without excuſe: but I deny any Creature to have power of himſelf. (that is by nature) to beleeve in Jeſus Chriſt, neither doth it follow that it muſt be ſo becauſe Chriſt dyed for all, yet I confeſs men would lay it on the
+<pb n="31" facs="tcp:169879:19"/> necks of thoſe that hold this point, to make the way odious.</p>
+            </div>
+            <div type="objection">
+               <head>Ob. 24.</head>
+               <p>
+                  <hi>We all had power and will in A<g ref="char:EOLhyphen"/>dam to ſtand, he abuſing his power, all man<g ref="char:EOLhyphen"/>kind became ſinners: Now God might juſtly make choiſe of whom he pleaſed in this condi<g ref="char:EOLhyphen"/>tion, not being bound to reſtore any again.</hi>
+               </p>
+               <p>
+                  <hi>As for example, ſome man giveth his ſer<g ref="char:EOLhyphen"/>vant a ſum of money to trade withall, whereby he might (if improved) be inriched, this ſer<g ref="char:EOLhyphen"/>vant wilfully ſpendeth this his ſum of money, his Maſter is not bound to reſtore him again, neither is God bound to reſtore any.</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> From this objection ſeverall things are conſiderable, which will help to clear our former diſcourſe; indeed this is the judgement of moſt men, that all fell in Adam, and God then was pleaſed to make choiſe of a few to become his, ſending his Son to die for thoſe few, leaving the other to themſelves in their loſt eſtate. I deſire now from what is layd down to take theſe into conſideration.</p>
+               <p>Firſt, it is granted by the Obje<g ref="char:EOLhyphen"/>ctor that all had power in Adam to ſtand (as indeed they had) then the Reprobate had power to ſtand.</p>
+               <pb n="32" facs="tcp:169879:20"/>
+               <p> Secondly, by Adams ſin all were made ſinners, then it ſeemes all were righteous before: then the Reprobate were righteous in Adam before hee ſinned.</p>
+               <p>I am forced here to ſpeake other mens words, for I deny that any were reprobated from eternity: but to anſwer the Objection, I grant all ſin<g ref="char:EOLhyphen"/>ned in Adam, <hi>Rom</hi> 5. 18 and that it is juſt with God to reſtore whom hee pleaſeth: nay God had been juſt if all had periſhed. It is granted likewiſe that God was not ſimply bound to reſtore man again.</p>
+               <p>But God hath bound himſelf to re<g ref="char:EOLhyphen"/>ſtore man by promiſe, ſee the ſecond of <hi>Joel</hi> the 28. <hi>Acts</hi> 2. 17. I will powre out my ſpirit upon all fleſh. Thus you ſee God hath bound himſelf; if the Maſter doth promiſe to reſtore the ſervant that hath ſpent all, he is bound by promiſe, ſo God by pro<g ref="char:EOLunhyphen"/>miſe in the 3. of <hi>Gen.</hi> 15. That the ſeed of the woman ſhould break the ſer<g ref="char:EOLunhyphen"/>pents head; now faithfull is he that
+<pb n="33" facs="tcp:169879:20"/> promiſed, who hath done it through his own grace &amp; love in Jeſus Chriſt, <hi>John</hi> 3. 16. God ſo loved the world (that is the lump of mankind) that whoſoever beleeveth ſhould not pe<g ref="char:EOLhyphen"/>riſh, but have everlaſting life.</p>
+            </div>
+            <div type="objection">
+               <head>
+                  <hi>Ob.</hi> If Chriſt hath taken away the guilt of Adams ſin from all, then, what ſhall any hee damned for?</head>
+               <p>Anſ. <hi>For unbeleef.</hi>
+               </p>
+            </div>
+            <div type="objection">
+               <head>Ob. 25. <hi>Unbelief cannot be the condemning ſin only, for it is ſaid in the firſt of the</hi> Cor. 6, 4. Know ye not that the unrighteous ſhall not inherit the Kingdome of God, neither Fornicators, nor Idolaters, nor Adulterers, nor effeminate, nor abuſers of themſelves with mankind, nor Thieves, nor Drun<g ref="char:EOLhyphen"/>kards, nor Revilers, nor Extortioners ſhall inherit the Kingdom of God? <hi>compared with</hi> Eph. 5. v. 5, 6. Let no man deceive you with vain words, for becauſe of theſe things commeth the wrath of God upon the chil<g ref="char:EOLhyphen"/>dren of diſobedience. <hi>From theſe you ſee that condemnation is inflicted for theſe as well as unbelief.</hi>
+               </head>
+               <p>
+                  <hi>Anſ.</hi> How is it poſſible that men ſhould be Teachers in Iſrael, and know not theſe things? I grant the wrath of God, nay condemnation
+<pb n="34" facs="tcp:169879:21"/> commeth on thoſe that commit thoſe things, but theſe are the works, of Unbelievers; I ſay unbelief is the cauſe that ſuch ſins are committed, for which things ſake commeth the wrath of God on the children of diſ<g ref="char:EOLhyphen"/>obedience, that is, unbelief: where the ſoul is an unbeliever, there ſuch ſins are committed; But where the ſoul is united to Chriſt through the Spirit, that ſoul is a true believer, that ſoul is born of God, that ſoul abideth in God. See 1 John 3. 9. he that is born of God ſinneth not, that is, doth not wittingly and wilfully ruſh on ſin; or thus, that which is born of God doth not nor cannot ſin, v. 6. but the unregenerate part is warring againſt the Spirit, ſo in many things we offend all; ſo by this you ſee who they are, and for what men are damned, namely, for unbelief, ſee Joh. 3. 18, 19. This is the condem<g ref="char:EOLhyphen"/>nation, that light is come into the world, but men love darkneſs rather than light, becauſe their deeds are e<g ref="char:EOLhyphen"/>vill,
+<pb n="35" facs="tcp:169879:21"/> compared with the 36. verſ. He that believeth on the Son hath life, he that believeth not the Son ſhall not ſee life, but the wrath of God abideth on him likewiſe: In the 8. ch. of John ver. 24. ſaith Chriſt to the Jews, if ye believe not that I am he ye ſhall die in your ſins. And that is full for this purpoſe Mark, 16. 16. He that believeth not ſhall be damned. And this muſt needs be the ſin againſt the Holy Ghoſt, ſpoken of Matth. 12. 31, 32. I mean finall and totall unbelief, he that never be<g ref="char:EOLhyphen"/>lieveth. Indeed I know there hath been abundance ſpoken and written about the definition of this ſinne a<g ref="char:EOLhyphen"/>gainſt the Holy Ghoſt, what it ſhould be; ſome ſay this, ſome that, and moſt ſay it is to ſin againſt know<g ref="char:EOLhyphen"/>ledge, which cannot be; for then who would be ſaved? for the Lord knoweth that both Miniſters and People have ſinned againſt know<g ref="char:EOLhyphen"/>ledge, that hath been acted by both, which the conſcience hath been per<g ref="char:EOLhyphen"/>ſwaded
+<pb n="36" facs="tcp:169879:22"/> ought not to be done. But thouſands can now ſpeak experi<g ref="char:EOLhyphen"/>mentally, that there is remiſſion of ſinnes, yea can behold a reconciled God through Jeſus Chriſt, for what hath been acted by them wilfully: But thoſe that perſiſt in unbelief, and deſpiſe the Goſpell, ſhall find no mercie, theſe are ſaid (Heb. 16. 29.) to do deſpite to the Spirit of Grace. And thus much to prove unbelief the condemning ſinne, much more of this nature might be ſaid, but I forbear, and proceed to the fourth Reaſon. Indeed ſome of theſe Ob<g ref="char:EOLhyphen"/>jections ſhould have been placed be<g ref="char:EOLhyphen"/>fore.</p>
+               <p>Fourthly, Goſpell Miniſters muſt needs preach Chriſt dyed for all:</p>
+               <p>Firſt, becauſe it ſets forth the great love of God to poor ſinners without reſpect of perſons, <hi>Rom.</hi> 2. 11.</p>
+               <p>Secondly, thereby the creature is left without excuſe, having a Chriſt to beleeve in that they might bee ſa<g ref="char:EOLhyphen"/>ved, <hi>Joh.</hi> 3. 17. For God ſent not his
+<pb n="37" facs="tcp:169879:22"/> Son into the world to condemn the world, but that the world through him might be ſaved; compared with <hi>Joh.</hi> 1. 9. he is, (that is Chriſt) the true light that lighteth every man that commeth into the world.</p>
+               <p>Thirdly, Becauſe this being a truth, that Chriſt dyed for all, doth clear the Eternall Father, condem<g ref="char:EOLhyphen"/>nation being of mans ſelf, <hi>Hoſea</hi> 13. 9. O <hi>Iſrael</hi> thou haſt deſtroyed thy ſelf; and our bleſſed Saviour ſaith, to the Jewes, O Ieruſalem, Ie<g ref="char:EOLhyphen"/>ruſalem, which killeſt, &amp;c. how of<g ref="char:EOLhyphen"/>ten would I have gathered thy chil<g ref="char:EOLhyphen"/>dren together, as a hen doth gather her brood under her wings, and yee would not, <hi>Luk.</hi> 13. 34.</p>
+               <p>And how is condemnation of mans ſelf, but for refuſing of their own mercy. <hi>Jonah</hi> 2. 8. <hi>verſ.</hi> And how doth the ſoul refuſe its own mercy, but by ſlighting of Jeſus Chriſt, but by ſpurning againſt the Goſpell, <hi>Prov.</hi> 1. 20, 21, 22, 23, 24, 25. And truely this is the condemnation
+<pb n="38" facs="tcp:169879:23"/> of moſt in the world, to deſpiſe the Goſpel, to refuſe Chriſt in the Goſ<g ref="char:EOLhyphen"/>pel, loving pleaſure and ſinne more than the wages of righteouſneſs, counting the waies of God even ſtrange waies, according to that ſay<g ref="char:EOLhyphen"/>ing by the Prophet <hi>Hoſea</hi> 8. 12.</p>
+               <p>The ſum of all is this, that thoſe that one day periſh (as many ſhall) ſhall not periſh becauſe Chriſt dyed not for them, but becauſe they have refuſed, deſpiſed, and ſtood in oppo<g ref="char:EOLhyphen"/>ſition againſt him. Salvation of God, and condemnation of mans ſelf.</p>
+            </div>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
